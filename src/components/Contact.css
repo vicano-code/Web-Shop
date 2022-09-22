@@ -1,0 +1,18 @@
+
+#contact {
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    gap: 1.5rem;
+}
+span {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 28px;
+}
+.button{
+    width: 8rem;
+    align: center;
+}
+.form-input{
+    width: 50rem
+}
