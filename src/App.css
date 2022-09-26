@@ -2,3 +2,16 @@
 .navbar-nav a{
   font-size: 18px;
 }
+/* Home */
+.card-img{
+  height: 95vh;
+}
+/* About */
+#about{
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  align-items: flex-start;
+  justify-content: center;
+  margin: 4rem 8rem;
+}
