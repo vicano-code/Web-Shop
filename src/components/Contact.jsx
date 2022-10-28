@@ -36,7 +36,7 @@ const Contact = () => {
                     <label for="exampleFormControlTextarea1" class="form-label">Message</label>
                     <textarea class="form-control" id="message" rows="3"></textarea>
                 </div>
-                <input type="submit" value="send" className="button" />
+                <input type="submit" value="Send" className="button" />
                 <span>{done && "Thanks for contacting me!"}</span>
             </form>
             
