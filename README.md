@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+# Ecommerce Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is an ecommerce website built with HTML, CSS, JavaScript, React, Bootstrap, and the emailjs REST API. This website allows users to browse products, view product details, add products to their cart, and register an account.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+-Home Page: This page showcases the latest products and promotions.
+-About Page: This page provides information about the company and its mission.
+-Products Page: This page displays all available products with their images, descriptions, and prices. Users can click on a product to view its details and add it to their cart.
+-Contact Page: This page provides a form for users to contact the company with any questions or concerns.
+-Account Registration: Users can register an account to save their personal and payment information for a faster checkout experience.
 
-### `npm start`
+## Technologies Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+-HTML: Markup language used for the website structure.
+-CSS: Styling language used for the website design.
+-JavaScript: Programming language used for website interactivity.
+-React: JavaScript library used for building reusable UI components.
+-Bootstrap: Front-end framework used for responsive web design.
+-emailjs REST API: Used for sending emails from the contact form.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## How to Run
 
-### `npm test`
+Follow the link: https://vic-webstore.netlify.app/
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## How to Use
 
-### `npm run build`
+1. Use the navigation bar to toggle between the different pages.
+2. Browse the products on the Products page and click on a product to view its details.
+3. Add products to your cart by clicking the "Add to Cart" button.
+4. Register an account to save your personal and payment information for a faster checkout experience.
+5. Use the contact form on the Contact page to send a message to the company.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Conclusion
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This ecommerce website provides users with a seamless shopping experience, from browsing products to checkout. Its responsive design makes it accessible on any device, and its emailjs integration ensures that users can easily contact the company with any questions or concerns.
