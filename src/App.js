@@ -15,7 +15,6 @@ function App() {
   return (
     <>
       <Navbar />
-      <h4 id="info">Note that this dummy website is still under construction</h4>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/About" element={<About />} />

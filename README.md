@@ -17,7 +17,8 @@ This is an ecommerce website built with HTML, CSS, JavaScript, React, Bootstrap,
 - JavaScript: Programming language used for website interactivity.
 - React: JavaScript library used for building reusable UI components.
 - Bootstrap: Front-end framework used for responsive web design.
-- Emailjs REST API: Used for sending emails from the contact form.
+- Emailjs SDK: Used for sending emails from the contact form.
+- Redux: For state management.
 
 ## How to Run
 
