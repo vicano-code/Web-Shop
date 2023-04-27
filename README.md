@@ -4,20 +4,20 @@ This is an ecommerce website built with HTML, CSS, JavaScript, React, Bootstrap,
 
 ## Features
 
--Home Page: This page showcases the latest products and promotions.
--About Page: This page provides information about the company and its mission.
--Products Page: This page displays all available products with their images, descriptions, and prices. Users can click on a product to view its details and add it to their cart.
--Contact Page: This page provides a form for users to contact the company with any questions or concerns.
--Account Registration: Users can register an account to save their personal and payment information for a faster checkout experience.
+- Home Page: This page showcases the latest products and promotions.
+- About Page: This page provides information about the company and its mission.
+- Products Page: This page displays all available products with their images, descriptions, and prices. Users can click on a product to view its details and add it to their cart.
+- Contact Page: This page provides a form for users to contact the company with any questions or concerns.
+- Account Registration: Users can register an account to save their personal and payment information for a faster checkout experience.
 
 ## Technologies Used
 
--HTML: Markup language used for the website structure.
--CSS: Styling language used for the website design.
--JavaScript: Programming language used for website interactivity.
--React: JavaScript library used for building reusable UI components.
--Bootstrap: Front-end framework used for responsive web design.
--emailjs REST API: Used for sending emails from the contact form.
+- HTML: Markup language used for the website structure.
+- CSS: Styling language used for the website design.
+- JavaScript: Programming language used for website interactivity.
+- React: JavaScript library used for building reusable UI components.
+- Bootstrap: Front-end framework used for responsive web design.
+- Emailjs REST API: Used for sending emails from the contact form.
 
 ## How to Run
 
