@@ -1,6 +1,6 @@
 # Ecommerce Website
 
-This is an ecommerce website built with HTML, CSS, JavaScript, React, Bootstrap, and the emailjs REST API. This website allows users to browse products, view product details, add products to their cart, and register an account.
+This is a test ecommerce website built with HTML, CSS, JavaScript, React, Bootstrap, and the emailjs REST API. This website allows users to browse products, view product details, add products to their cart, and register an account.
 
 ## Features
 
