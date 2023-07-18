@@ -1,6 +1,6 @@
 # Ecommerce Website
 
-This is a test ecommerce website built with HTML, CSS, JavaScript, React, Bootstrap, and the emailjs REST API. This website allows users to browse products, view product details, add products to their cart, and register an account.
+This is a test e-commerce website built with HTML, CSS, JavaScript, React, Bootstrap, and the emailjs API. This website allows users to browse products, view product details, add products to their cart, and register an account.
 
 ## Features
 
@@ -34,4 +34,4 @@ Follow the link: https://vic-webstore.netlify.app/
 
 ## Conclusion
 
-This ecommerce website provides users with a seamless shopping experience, from browsing products to checkout. Its responsive design makes it accessible on any device, and its emailjs integration ensures that users can easily contact the company with any questions or concerns.
+This e-commerce website provides users with a seamless shopping experience, from browsing products to checkout. Its responsive design makes it accessible on any device, and its emailjs integration ensures that users can easily contact the company with any questions or concerns.
